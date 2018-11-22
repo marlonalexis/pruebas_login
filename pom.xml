@@ -5,7 +5,7 @@
 
 	<groupId>com.claro</groupId>
 	<artifactId>login-automatico-cvideo-admin</artifactId>
-	<version>3.0.0</version>
+	<version>4.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>login-automatico-cvideo-admin</name>
